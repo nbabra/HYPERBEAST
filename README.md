@@ -8,4 +8,4 @@ Will add _**Supreme**_ box logo in your terminal prompt for a _**Supreme**_ comm
 Thanks to my _**Supreme**_ friend @jmverastigue for the _**Supreme**_ idea!
 
 Note(s):
- - Works fine with apple's built in terminal when updating .bashrc file
+ - Works fine with Apple's built in terminal when updating .bashrc file
